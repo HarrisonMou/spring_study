@@ -1,0 +1,19 @@
+spring:
+  jackson:
+    time-zone: GMT+8
+
+zhangshan:
+    name: "张三"
+    age: 18
+    birthday: 2018/05/04
+    dead: true
+    sex: 1
+    relation:
+      father: "张爹"
+      mother: "张妈"
+    jobs: [{company: "java"}]
+    brothers: ["哥哥", "弟弟", "姐姐"]
+    location:
+      province: "上海市"
+      city: "上海市"
+      district: "浦东新区"
