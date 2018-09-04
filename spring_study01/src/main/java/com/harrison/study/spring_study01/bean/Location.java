@@ -1,7 +1,10 @@
 package com.harrison.study.spring_study01.bean;
 
+import org.springframework.stereotype.Component;
+
 import java.util.Objects;
 
+@Component
 public class Location {
     private String province;
     private String city;
