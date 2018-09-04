@@ -1,4 +1,4 @@
-package com.harrison.study.spring_study01;
+package com.harrison.study;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

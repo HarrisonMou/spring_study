@@ -1,8 +1,5 @@
 package com.harrison.study.spring_study01.chapter02;
 
-import com.harrison.study.spring_study01.bean.Location;
-import com.harrison.study.spring_study01.chapter02.pojo.Address;
-import com.harrison.study.spring_study01.chapter02.service.UserService;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
