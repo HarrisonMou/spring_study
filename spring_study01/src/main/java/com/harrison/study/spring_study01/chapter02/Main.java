@@ -1,6 +1,6 @@
 package com.harrison.study.spring_study01.chapter02;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
